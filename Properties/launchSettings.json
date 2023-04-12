@@ -4,7 +4,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://z-integration.azurewebsites.net:40752",
+      "applicationUrl": "http://myztest.azurewebsites.net:40752",
       "sslPort": 44344
     }
   },
@@ -14,7 +14,7 @@
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "swagger",
-      "applicationUrl": "https://z-integration.azurewebsites.net:7054;http://z-integration.azurewebsites.net:5006",
+      "applicationUrl": "https://myztest.azurewebsites.net:7054;http://myztest.azurewebsites.net:5006",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
